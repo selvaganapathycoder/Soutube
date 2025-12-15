@@ -1,0 +1,45 @@
+body {
+  background-color: #000;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000;
+}
+
+.category-btn {
+  font-weight: bold;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  cursor: pointer;
+  background: transparent;
+  outline: none;
+  border: none;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.category-btn:hover {
+  background-color: #FC1503;
+  color: white;
+}
+
+.category-btn span {
+  opacity: 1;
+}
+
+.videos-container {
+    padding: 20px;
+}

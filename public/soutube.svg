@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="80" height="80" rx="20" fill="#FF0000"/>
+  <path d="M65 35C62 32 58 30 50 30C35 30 30 40 30 50C30 60 35 70 50 70C58 70 62 68 65 65" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <path d="M35 35C38 32 42 30 50 30C65 30 70 40 70 50C70 60 65 70 50 70C42 70 38 68 35 65" stroke="white" stroke-width="8" stroke-linecap="round" stroke-opacity="0.5"/>
+  <path d="M50 30 V 70" stroke="white" stroke-width="0"/>
+  <!-- Stylized S shape closer to a play button vibe -->
+  <path d="M70 30 H 45 C 35 30 35 45 45 45 H 55 C 65 45 65 60 55 60 H 30" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
